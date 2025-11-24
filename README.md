@@ -1,5 +1,5 @@
 
-# Exp 3 Experimental Verification of IV Characteristics of LED and LASER
+# Exp 3 Experimental Verification of IV Characteristics of LED and LASER 
 # Fiber Optic LED Characteristics and Photo Detector Response
 
 ## 🎯 AIM
